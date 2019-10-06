@@ -5,6 +5,10 @@
 #include <math.h>
 #include <unistd.h>
 
+/*
+Project by Andrew Boyce
+*/
+
 int tagDec;
 int setDec;
 char* blockChar;
