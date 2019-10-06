@@ -3,6 +3,9 @@
 #include <string.h>
 #include <ctype.h>
 
+/*
+Project by Andrew Boyce
+*/
 
 void *palin(char* test)
 {
